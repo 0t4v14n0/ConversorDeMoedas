@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 
 public class ApiCotacao {
     
-    private static final String apiKey = "982b50a97ec528bfe5d099a4";
+    private static final String apiKey = "SUA_API_KEY";
     private static final String baseURL = "https://v6.exchangerate-api.com/v6/";
     private static final String pair = "/pair/";
 

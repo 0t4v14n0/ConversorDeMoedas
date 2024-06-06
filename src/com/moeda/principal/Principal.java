@@ -106,6 +106,10 @@ public class Principal {
 					
 					a = 0;
 					break;
+						
+				default:
+        				System.out.println("Opcao invalida !");
+        				break;
 					
 				}
 				
